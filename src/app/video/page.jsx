@@ -58,12 +58,12 @@ function Video() {
         <h2>Recent Files</h2>
         <div className={styles.videoCont}>
           <div className={styles.video}>
-            <video src="/screen-recording.webm" />
+            <video src="" />
             <h2>How to create a facebook Ad Listing</h2>
             <p>SEPTEMBER 23, 2023</p>
           </div>
           <div className={styles.video}>
-            <video src="/screen-recording.webm" />
+            <video src="" />
             <h2>How to create a facebook Ad Listing</h2>
             <p>SEPTEMBER 23, 2023</p>
           </div>
